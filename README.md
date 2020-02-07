@@ -4,9 +4,8 @@
 
 An awesome directory of free cron services.
 
-- [Cron-job](https://cron-job/): Scheduled execution of your websites and scripts - Free / $7.95 - $99.95 per year
-- [Cronless](https://cronless.com/) - Online Cron Service
-- [EasyCron](https://easycron.com/) - Online Cron Service
+- [Cron-job](https://cron-job.org/) - Free 
+- [EasyCron](https://easycron.com/) - 	Free / $7.95 - $99.95 per year
 - [Webcron](https://www.webcron.org) - € 0.0005 - € 0.25 per launch	
 - [MyWebCron](http://www.mywebcron.com/) - Free / $10 per year	
 - [Cronless](https://cronless.com/) - Free / $27 per year	
