@@ -1,4 +1,4 @@
-# Free Cron Services
+# Free Cron Job Services
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -16,7 +16,7 @@ An awesome directory of free cron services.
 - [Daily Web Cron Service](http://www.crondroid.com/cron/daily) - Free	
 - [Onlinecronjobs](http://www.onlinecronjobs.com/) - Free	
 
-# Paid Cron Services
+# Paid Cron Job Services
 
 - [SetCronJob](https://setcronjob.com) - Reliable Web Cron service - $10 - $100 per year
 
